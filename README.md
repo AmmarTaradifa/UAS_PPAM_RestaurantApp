@@ -1,24 +1,24 @@
 # UAS_PPAM_RestaurantApp
-## - Ammar Taradifa ( 1207050013)
-## Ditujukan untuk memenuhi tugas akhir mata kuliah PPAM
+### - Ammar Taradifa ( 1207050013)
+### Ditujukan untuk memenuhi tugas akhir mata kuliah PPAM
 
 ## Screenshots
 
 #### Home
 
-![1](https://user-images.githubusercontent.com/49550093/209759032-6e559178-7370-4b3f-8503-7183c76fb32c.jpg =360x800)
+![1](https://user-images.githubusercontent.com/49550093/209772564-e4252651-d6bf-46ae-b3f9-952e9f4240fb.jpg)
 
 #### Store
-![2](https://user-images.githubusercontent.com/49550093/209759170-8046c624-45df-4905-ab0b-a2ab6d0ed0de.jpg =360x800)
+![2](https://user-images.githubusercontent.com/49550093/209772629-32efd301-19a4-4b65-8c35-2b292d0d3a7b.jpg)
 
 #### List Menu
-![3](https://user-images.githubusercontent.com/49550093/209759246-7af5c94c-7f2c-4a97-a973-a614bd1b5500.jpg =360x800)
+![3](https://user-images.githubusercontent.com/49550093/209772693-7a614ca4-1418-401e-8695-635c106db2f6.jpg)
 
 #### Detail Menu
-![4](https://user-images.githubusercontent.com/49550093/209759272-9c129aeb-b7f2-4cac-ba46-783df1bd857a.jpg =360x800)
+![4](https://user-images.githubusercontent.com/49550093/209772745-1e044b0c-2989-454c-894c-625b65c4c9aa.jpg)
 
 #### Order
-![5](https://user-images.githubusercontent.com/49550093/209759291-fef4df20-75e7-49b4-b0ad-1bca0b38e03f.jpg =360x800)
+![5](https://user-images.githubusercontent.com/49550093/209772801-244bfef8-faba-413a-9e42-c9253864da55.jpg)
 
 #### Detail Order
-![6](https://user-images.githubusercontent.com/49550093/209759320-01924ae6-1e53-490d-a13c-9144e13641b8.jpg =360x800)
+![6](https://user-images.githubusercontent.com/49550093/209772831-a307111c-c72e-452e-938b-690aada812c2.jpg)
